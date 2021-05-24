@@ -26,7 +26,7 @@ allows the name to reach 144 characters in length.
 # Building
 
 ``` shell
-git clone https://github.com/AgentTroll/nameplate.git
+git clone https://github.com/caojohnny/nameplate.git
 cd nameplate
 mvn clean install
 ```
